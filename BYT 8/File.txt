@@ -1,1 +1,1 @@
-my file with new data without conflict
+my file with new data without conflict!
